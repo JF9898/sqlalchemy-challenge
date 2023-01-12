@@ -9,5 +9,7 @@ After using sqlalchemy, the next part of the assignment was to create a flask ap
 Overall I think I have done everything that is asked of the assignment. 
 
 The jupyter code can be found in the 'Jupyter-code' folder. 
-The png files are stored in the 'Pictures' folder
+
+The png files are stored in the 'Pictures' folder.
+
 The flask climate app can be found in the 'ClimateApp' folder
