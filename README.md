@@ -7,3 +7,7 @@ The data was used to produce a line graph of precipitation values over a one yea
 After using sqlalchemy, the next part of the assignment was to create a flask api to route to all the work i had done above. I am not entirely sure that I have done it correctly. But if this isnt right, I dont know what is. 
 
 Overall I think I have done everything that is asked of the assignment. 
+
+The jupyter code can be found in the 'Jupyter-code' folder. 
+The png files are stored in the 'Pictures' folder
+The flask climate app can be found in the 'ClimateApp' folder
